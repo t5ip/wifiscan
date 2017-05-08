@@ -1,6 +1,8 @@
 # wifiscan
 script for wifi scanning
 
+Accesspoints and devices will be in the text files named "scan-0...".
+
 Remember, if you're connected to the scanning computre 
 with ssh via wifi, you'll need two wireless interfaces. 
 
