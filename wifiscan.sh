@@ -1,6 +1,7 @@
 #!/bin/bash 
 
-cd /home/tomi/workspace/opn-wifi-scan/
+# Go to working folder 
+cd /home/user/workspace/wifiscan/
 
 # This interface will be put on monitor mode
 interface="wlan1"
