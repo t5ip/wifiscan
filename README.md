@@ -1,6 +1,10 @@
 # wifiscan
 script for wifi scanning
 
+First install aircrack-ng 
+
+Check your wlan by running iwconfig. Change the right wlan to the script.
+
 Accesspoints and devices will be in the text files named "scan-0...".
 
 Remember, if you're connected to the scanning computer
